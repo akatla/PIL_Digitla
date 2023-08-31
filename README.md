@@ -1,2 +1,2 @@
-# Clock on Verilog
+# DIGITAL PROCESSOR
  PIL Processor DIGITAL
